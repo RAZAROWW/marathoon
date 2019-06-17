@@ -1,0 +1,99 @@
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe.config
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.pdb
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csprojAssemblyReference.cache
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Form1.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015___BMI_calculator.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015__BMR_calculator.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Add_a_new_user.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Administrator_menu.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Certificate_preview.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Coordinator_menu.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_a_user.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile2.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Login.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Manage_a_runner.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___My_race_results.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner_2.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_for_an_event.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___About_Marathon_Skills_2016.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Find_out_more_information.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___How_long_is_a_marathon.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Interactive_map.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Registration_confirmation.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Runner_menu.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___User_management.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016__Runner_management.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Properties.Resources.resources
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.GenerateResource.cache
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.CoreCompileInputs.cache
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.exe
+E:\проектн деят\2cеместр\worldskills\Marathon Skills 2016\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.pdb
+C:\Users\Лера\Desktop\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe.config
+C:\Users\Лера\Desktop\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe
+C:\Users\Лера\Desktop\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.pdb
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csprojAssemblyReference.cache
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Form1.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015___BMI_calculator.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015__BMR_calculator.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Add_a_new_user.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Administrator_menu.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Certificate_preview.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Coordinator_menu.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_a_user.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile2.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Login.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Manage_a_runner.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___My_race_results.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner_2.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_for_an_event.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___About_Marathon_Skills_2016.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Find_out_more_information.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___How_long_is_a_marathon.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Interactive_map.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Registration_confirmation.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Runner_menu.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___User_management.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016__Runner_management.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Properties.Resources.resources
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.GenerateResource.cache
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.exe
+C:\Users\Лера\Desktop\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.pdb
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csprojAssemblyReference.cache
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Form1.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015___BMI_calculator.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2015__BMR_calculator.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Add_a_new_user.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Administrator_menu.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Certificate_preview.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Coordinator_menu.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_a_user.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Edit_runner_profile2.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Login.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Manage_a_runner.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___My_race_results.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_as_runner_2.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Register_for_an_event.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___About_Marathon_Skills_2016.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Find_out_more_information.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___How_long_is_a_marathon.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Interactive_map.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Registration_confirmation.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___Runner_menu.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016___User_management.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Marathon_Skills_2016__Runner_management.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon_Skills_2016.Properties.Resources.resources
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.GenerateResource.cache
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.exe
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\obj\Debug\Marathon Skills 2016.pdb
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe.config
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.exe
+C:\Users\Лера\Desktop\марафон\Marathon Skills 2016\bin\Debug\Marathon Skills 2016.pdb
